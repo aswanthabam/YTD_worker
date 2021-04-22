@@ -1,3 +1,4 @@
-ytd{
-    python -m YTdownloader -h
+#!/bin/sh
+ytd() {
+ python -m YTdownloader -h
 }
